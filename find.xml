@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\Tester_oop_ex4.java [oop]'" />
-    <option name="defaultScopeName" value="File '...\src\Tester_oop_ex4.java [oop]'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\Tester_oop_ex4.java [oop]'" />
+    <option name="customScope" value="Project 'EX5'" />
+    <option name="defaultScopeName" value="Project 'EX5'" />
+    <option name="SEARCH_SCOPE" value="Project 'EX5'" />
   </component>
 </application>
